@@ -1,3 +1,5 @@
+test to github
+
 Rule:
 # Apple 服务优化
 ## 其他服务
@@ -265,7 +267,7 @@ Rule:
 - DOMAIN-SUFFIX,zhihu.com,Domestic
 - DOMAIN-SUFFIX,zhimg.com,Domestic
 
-# 抗 DNS 污染 
+# 抗 DNS 污染
 - DOMAIN-KEYWORD,amazon,Proxy
 - DOMAIN-KEYWORD,google,Proxy
 - DOMAIN-KEYWORD,gmail,Proxy
