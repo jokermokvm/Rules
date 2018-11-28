@@ -66,6 +66,12 @@ Proxy Group:
 # 您也可以使用 RESTful API 去切换服务器，这种方式推荐在 GUI 中使用
 - { name: "Proxy", type: select, proxies: ["ss1", "ss2", "vmess1", "auto"] }
 
+# Domestic  用来选择国内服务的规则
+- { name: "Global_media", type: select, proxies: ["ss1", "ss2", "vmess1", "auto"] }
+
+# Global_media 用户可以自己去选择国外媒体的代理服务器组
+- { name: "Global_media", type: select, proxies: ["ss1", "ss2", "vmess1", "auto"] }
+
 Rule:
 - DOMAIN,gs.apple.com,Proxy
 - DOMAIN-SUFFIX,mzstatic.com,Domestic
