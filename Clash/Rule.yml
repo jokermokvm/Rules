@@ -67,7 +67,7 @@ Proxy Group:
 - { name: "Proxy", type: select, proxies: ["ss1", "ss2", "vmess1", "auto"] }
 
 # Domestic  用来选择国内服务的规则
-- { name: "Global_media", type: select, proxies: ["ss1", "ss2", "vmess1", "auto"] }
+- { name: "Domestic", type: select, proxies: ["ss1", "ss2", "vmess1", "auto"] }
 
 # Global_media 用户可以自己去选择国外媒体的代理服务器组
 - { name: "Global_media", type: select, proxies: ["ss1", "ss2", "vmess1", "auto"] }
