@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamstatic.com
 
 # > Top blocked sites
+DOMAIN-SUFFIX,tp.m-team.cc
 DOMAIN-SUFFIX,2o7.net
 DOMAIN-SUFFIX,4everProxy.com
 DOMAIN-SUFFIX,4shared.com
