@@ -14,6 +14,15 @@ USER-AGENT,WeChat*
 # > Beplay
 DOMAIN-KEYWORD,beplay
 
+# > sspai
+DOMAIN-SUFFIX,sspai.com
+DOMAIN-KEYWORD,sspai
+USER-AGENT,sspai*
+IP-CIDR,119.23.141.248/24,no-resolve
+IP-CIDR,14.29.39.0/24,no-resolve
+IP-CIDR,183.61.241.0/24,no-resolve
+IP-CIDR,183.57.82.0/24,no-resolve
+
 # > Blizzard
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,battlenet.com
@@ -230,7 +239,6 @@ DOMAIN-SUFFIX,sogoucdn.com
 DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,soso.com
-DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,startssl.com
 DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,suning.com
