@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,sspai.com
 DOMAIN-KEYWORD,sspai
 USER-AGENT,sspai*
 IP-CIDR,119.23.141.248/24,no-resolve
+IP-CIDR,119.23.131.75/24,no-resolve
 IP-CIDR,14.29.39.0/24,no-resolve
 IP-CIDR,183.61.241.0/24,no-resolve
 IP-CIDR,183.57.82.0/24,no-resolve
